@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    flex-direction: column;
+}
+.header,
+.footer{
+    background-color: #1f2937;
+    height: 50px;
+}
+.main{
+    flex: 1;
+}
