@@ -7,4 +7,4 @@ imformation section:
     image-3: Image by (https://pixabay.com/users/placidplace-25572496/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7709489) Iris,Helen,silvy from (https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7709489) Pixabay
     image-4: Image by (https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7249785) Gerd Altmann from (https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7249785) Pixabay
 
-    live view: https://devritra.github.io/odin-landing-page/
+live view: https://devritra.github.io/odin-landing-page/
