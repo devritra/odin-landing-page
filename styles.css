@@ -130,8 +130,8 @@ img{
     color: #1f2937;
     text-align: justify;
     margin-bottom: 8px;
-    width: 800px;
-    flex: 1;
+    width: 900px;
+    height: auto;
 }
 
 
