@@ -15,10 +15,10 @@ body{
     background-color: #1f2937;
     height: 50px;
 }
-
 .main{
     flex: 1;
 }
+
 
 .header{
     display: flex;
@@ -38,4 +38,12 @@ a{
 .header-logo-text{
     font-size: 24px;
     color: #f9faf8;
+}
+
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #e5e7eb;
 }
