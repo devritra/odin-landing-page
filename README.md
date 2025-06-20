@@ -1,1 +1,2 @@
 # odin-landing-page
+hero section image: Image by (https://pixabay.com/users/johnnaturephotos-11966122/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=9585821) John from (https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=9585821) Pixabay

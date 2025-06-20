@@ -51,6 +51,11 @@ a{
 
 .hero{
     background-color: #1f2937;
+    display: flex;
+    padding: 100px 200px;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
 }
 .hero .left h1{
     font-size: 48px;
@@ -66,4 +71,13 @@ button{
     height: 25px;
     width: 90px;
     border-radius: 6px;
+}
+.hero .left{
+    padding-right: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+img{
+    max-width: 470px;
 }
