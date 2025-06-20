@@ -115,6 +115,9 @@ img{
 .quote{
     background-color: #e5e7eb;
     padding: 100px 500px;
+    display: flex;
+    flex-direction: column;
+    height: 400px;
 }
 .narrator{
     text-align: right;
@@ -127,6 +130,8 @@ img{
     color: #1f2937;
     text-align: justify;
     margin-bottom: 8px;
+    width: 800px;
+    flex: 1;
 }
 
 
