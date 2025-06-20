@@ -47,3 +47,23 @@ a{
     align-items: center;
     color: #e5e7eb;
 }
+
+
+.hero{
+    background-color: #1f2937;
+}
+.hero .left h1{
+    font-size: 48px;
+    color: #f9faf8;
+}
+.hero .left p{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+button{
+    background-color: #3882f6;
+    color: #f9faf8;
+    height: 25px;
+    width: 90px;
+    border-radius: 6px;
+}
